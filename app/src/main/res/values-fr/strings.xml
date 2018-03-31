@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Séismes</string>
+    <string name="title_activity_maps">Carte</string>
+    <string name="maps">Cartes</string>
+</resources>
